@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
 """YOLO_v4 Model Defined in Keras."""
 
 from functools import wraps
